@@ -1,0 +1,15 @@
+Model: ExtraTreesClassifier
+
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         6
+           4       0.50      0.14      0.22        43
+           5       0.76      0.72      0.74       428
+           6       0.66      0.80      0.73       567
+           7       0.68      0.57      0.62       216
+           8       0.93      0.36      0.52        39
+           9       0.00      0.00      0.00         1
+
+    accuracy                           0.70      1300
+   macro avg       0.50      0.37      0.40      1300
+weighted avg       0.70      0.70      0.68      1300
